@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/project-design/phase-i/road-map/"}
 ---
 
-- What are next steps? Improve:
+- After finishing [[Project Design/Phase I/Main Functions I\|Main Functions I]], what are next steps? Improve:
 	- Functionality
 	- Code quality
 		- Own code
@@ -11,5 +11,6 @@
 	- Costs reduction
 	- Community engagement
 	- etc
+- And probably also get more funding or other types of contributors
 
 #phaseStep #phase1

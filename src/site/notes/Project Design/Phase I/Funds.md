@@ -3,7 +3,7 @@
 ---
 
 - Idealistic investors (no interest/dividend first)
-- Crowd funding
+- Crowdfunding
 - What else?
   
 **Next: VI. [[Project Design/Phase I/Road Map\|Road Map]]**

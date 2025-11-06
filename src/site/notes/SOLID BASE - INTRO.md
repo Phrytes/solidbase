@@ -7,7 +7,7 @@ This group of documents describes the initial framework for advancing the Solid 
 It is separated into different parts:
 
 1. In the [[Project Design/Project Design\|Project Design]] a proposal is sketched of how to shape the different steps of this goal
-2. The project needs to deliver different products, which are described in the directory 'Product Design'. Most of them are referenced to in the [[Project Design/Project Design\|Project Design]]. Note: the split between Main Functions and Services can feel a bit fuzzy, it is just a rough grouping.
+2. The project needs to deliver different products, which are described in the directory 'Product Design'. Most of them are referenced to in the Project Design. Note: the split between Main Functions and Services can feel a bit fuzzy, it is just a rough grouping.
 3. As the ambitiousness of this project demands funding, while there is no clear business model from the start, I have added thoughts about potential business models that can profit from this ideology under [[Possible Solid Business Models\|Possible Solid Business Models]]
 4. For most people it is not ideology, but functionality that makes them enthusiastic - which is necessary for collecting commitment and funding. Therefore I also sketched some [[User Stories\|User Stories]]. I'm sure we can come up with something better, but it is a start. 
 

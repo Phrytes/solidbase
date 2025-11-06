@@ -13,8 +13,6 @@ MVP
 - [[Product Design/Main Functionalities/Streaming\|Streaming]]
 - [[Product Design/Main Functionalities/Main Functionalities Phase II/Social Medium\|Social Medium]]
 - [[Product Design/Main Functionalities/Connect with Local People\|Connect with Local People]]
-	- by local QR's
-	- url-mapping to local MAC addresses
 - [[Product Design/Main Functionalities/Local Question - Answer\|Local Question - Answer]]
 - [[Product Design/Main Functionalities/Alternative Connection Options\|Alternative Connection Options]], like NKN (New Kind of Network)
 - [[Product Design/Main Functionalities/Main Functionalities Phase II/E-mail Client\|E-mail Client]]
