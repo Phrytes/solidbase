@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/user-stories/"}
+{"dg-publish":true,"permalink":"/user-stories/","tags":["gardenEntry"]}
 ---
 
 Some fictional inducing user stories, curated by ChatGPT. It is mostly speculation/dreaming, but maybe it can spark some enthusiasm.
