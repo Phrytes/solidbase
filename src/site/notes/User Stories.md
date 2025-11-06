@@ -6,7 +6,7 @@ Some fictional inducing user stories, curated by ChatGPT. It is mostly speculati
 
 ## Developers
 
-As a developer, you it would be great to build services on much richer user data, without putting data safety at risk.  By adopting Solid Pods, you can help create a future where data is no longer owned by big tech companies, but by individuals themselves. With these Solid Pods, users can store their data securely and retain full control over who accesses it and how it’s used. This way, services don’t own the data—they just access it with permission, helping build a safer, more transparent digital world. A great advantage for you as a developer is that it safes you from any legal data management compliance headaches.
+For a developer, it would be great to build services on much richer user data, without putting data safety at risk.  By adopting Solid Pods, you can help create a future where data is no longer owned by big tech companies, but by individuals themselves. With these Solid Pods, users can store their data securely and retain full control over who accesses it and how it’s used. This way, services don’t own the data—they just access it with permission, helping build a safer, more transparent digital world. A great advantage for you as a developer is that it safes you from any legal data management compliance headaches.
 
 ## **Users**
 
