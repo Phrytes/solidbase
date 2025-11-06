@@ -3,7 +3,7 @@
 ---
 
 
-- Goal: getting some experience with a Solid Pod app
+- Goal: getting some experience with a Solid Pod app + creating an interesting example app
 - Finding potential issues
 	- Where/how to host
 	- Costs
