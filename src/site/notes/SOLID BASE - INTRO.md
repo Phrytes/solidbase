@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/solid-base-intro/","tags":["gardenEntry"]}
 ---
 
-This group of documents describes the initial framework for advancing the Solid Pod ideology into a functional part of both online and local communities. While the aim is to start very small, I think it is important to have an idea of the bigger picture and a discussion about it from the very start. That is why there are so many small ideas clustered together into a web of ideas.
+This group of documents describes the initial framework for advancing the Solid Pod ideology into a functional infrastructure for both online and local communities. While the best way is to start small, I think it is important to have an idea of the bigger picture and a discussion about it from the very start. That is why there are so many small ideas clustered together into this web of ideas.
 
 It is separated into different parts:
 
