@@ -32,7 +32,7 @@ Service
 - [[Product Design/Potential Services/Advertisements\|Advertisements]] focused on pod content
 	- the client pulls the best ad - so no info is shared
 - digitizing and sharing (family) [[Product Design/Potential Services/Shared Data Archives\|Shared Data Archives]]
-- local [[Odd-Job Sharing \|Odd-Job Sharing ]]app
+- local [[Product Design/Potential Services/Odd-Job Sharing\|Odd-Job Sharing]] app
 - [[Product Design/Potential Services/IoT Applications\|IoT Applications]], maybe community focused (like automating community gardens)
 - [[Product Design/Potential Services/Survey App\|Survey App]] for policy making/scientific research
 - [[Product Design/Potential Services/Emergency Connection\|Emergency Connection]] method
