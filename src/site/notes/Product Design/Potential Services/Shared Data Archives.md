@@ -9,7 +9,7 @@ Right now, it is harder for friends and family to easily share this kind of data
 This could also lead to new companies that digitize family archives, putting everything in a pod and then offering the credentials to family members - without any vendor lock-in.
 ### Dependencies
 - [[Product Design/Main Functionalities/Main Functionalities Phase I/Syncing\|Syncing]]
-- [[Product Design/Main Functionalities/Proof of Group Membership\|Proof of Group Membership]]
+- [[Product Design/Main Functionalities/Main Functionalities Phase III/Proof of Group Membership\|Proof of Group Membership]]
 - [[Product Design/Main Functionalities/Main Functionalities Phase II/Messaging - Groups\|Messaging - Groups]]
 
 #service

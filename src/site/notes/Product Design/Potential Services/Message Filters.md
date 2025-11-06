@@ -11,6 +11,6 @@ On the other hand, I think some criminal activities methods actually be decrease
 In short: it could and should be promoted that users let most of their incoming data be screened partly on third party computers, partly locally. On the one hand, this could prevent viruses and spam, but on the other hand, it could also be AI filters that filter illegal content. A new feature of solid pods could be that you train local models on private picture data, so they could recognize family members on incoming pictures. This could for example counter sextortion, especially when the sender gets an automated message that the content didn't come through the filters and that it is reported or anything like that. I think a special feature of controlling your own online infrastructure, is that you can trust AI way better and personalize it, as you don't have to share data with any company that you don't trust.
 
 ### Dependencies
-- [[Product Design/Main Functionalities/Third Party Computation\|Third Party Computation]]
+- [[Product Design/Main Functionalities/Main Functionalities Phase III/Third Party Computation\|Third Party Computation]]
 
 #service

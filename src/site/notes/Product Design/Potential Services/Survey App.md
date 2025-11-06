@@ -8,9 +8,9 @@ This could improve both local decision making/policy making as scientific resear
 
 It would of course only be useful after mass adaptation of this infrastructure.
 ### Dependencies
-- [[Product Design/Main Functionalities/Proof of Group Membership\|Proof of Group Membership]]
-- [[Product Design/Main Functionalities/Proof of Personhood\|Proof of Personhood]]
-- [[Product Design/Main Functionalities/Third Party Computation\|Third Party Computation]]
-- maybe even [[Product Design/Main Functionalities/Homomorphic Computing\|Homomorphic Computing]]
+- [[Product Design/Main Functionalities/Main Functionalities Phase III/Proof of Group Membership\|Proof of Group Membership]]
+- [[Product Design/Main Functionalities/Main Functionalities Phase III/Proof of Personhood\|Proof of Personhood]]
+- [[Product Design/Main Functionalities/Main Functionalities Phase III/Third Party Computation\|Third Party Computation]]
+- maybe even [[Product Design/Main Functionalities/Main Functionalities Phase III/Homomorphic Computing\|Homomorphic Computing]]
 
 #service

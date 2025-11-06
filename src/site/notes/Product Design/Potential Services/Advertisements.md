@@ -6,6 +6,6 @@ An business model for an advertisement company following the Solid Philosophy co
 
 Because of the third party, the advertisement broker doesn't need to know the interest of the user itself, but it can still make a match through the third party.
 ### Dependencies
-- [[Product Design/Main Functionalities/Third Party Computation\|Third Party Computation]]
+- [[Product Design/Main Functionalities/Main Functionalities Phase III/Third Party Computation\|Third Party Computation]]
 
 #service
